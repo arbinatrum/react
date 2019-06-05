@@ -10,7 +10,7 @@ const Navbar = () => {
         </div>
         <div>
             <a>News 1</a>
-            <p>Новое изменение файла Navbar.jsx</p>
+            <p>Новое изменение файла DADAJA</p>
         </div>
         <div>
             <a>Music</a>
